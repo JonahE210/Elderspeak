@@ -1,6 +1,10 @@
 import React from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
-
+/*For Nick only
+    git add .
+    git commit -m "(name)"
+    git push -u origin main
+ */
 const HomeScreen = ({ navigation }) => {
     return (
         <View style={styles.container}>
